@@ -26,7 +26,7 @@
   @apply ml-3 text-xs sm:text-sm font-medium text-blue-800;
 }
 .right-col {
-  @apply lg:block lg:w-6/12;
+  @apply lg:block lg:w-4/12;
 }
 .header-image {
   @apply w-full h-auto object-cover;
